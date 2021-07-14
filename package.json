@@ -1,0 +1,23 @@
+{
+  "name": "jordan-express-example",
+  "version": "1.0.0",
+  "description": "Examples of the Express.js web framework and HTTP methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scolton99/jordan-express-example.git"
+  },
+  "author": "Spencer Colton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scolton99/jordan-express-example/issues"
+  },
+  "homepage": "https://github.com/scolton99/jordan-express-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
